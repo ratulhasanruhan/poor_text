@@ -1,7 +1,21 @@
 name: poor_text
 description: "A parody package for rich_text"
-version: 0.0.1
-homepage:
+version: 0.0.0
+homepage: https://github.com/ratulhasanruhan/poor_text
+
+topics:
+  - parody
+  - broken
+
+
+platforms:
+  android:
+  ios:
+  macos:
+  web:
+  windows:
+  linux:
+
 
 environment:
   sdk: ^3.7.2

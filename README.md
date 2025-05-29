@@ -25,13 +25,8 @@
 Add this to your `pubspec.yaml`:
 
 ```yaml
-dependencies:
-  poor_text:
-    git:
-      url: https://github.com/ratulhasanruhan/poor_text.git
+flutter pub add poor_text
 ```
-
-> _We're too broke for pub.dev. Git is cheaper._
 
 ### Import
 
