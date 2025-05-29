@@ -28,7 +28,7 @@ Add this to your `pubspec.yaml`:
 dependencies:
   poor_text:
     git:
-      url: https://github.com/yourusername/poor_text.git
+      url: https://github.com/ratulhasanruhan/poor_text.git
 ```
 
 > _We're too broke for pub.dev. Git is cheaper._
